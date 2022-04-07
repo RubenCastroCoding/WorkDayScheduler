@@ -12,3 +12,22 @@ main{
     background-color: black;
 }
 
+textarea{
+    border: 0;
+    resize: none;
+    height: 30px;
+    width: 100%;
+    background-color: inherit;
+    color: black;
+}
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 100%;               
+    background-color:#dee2e6;
+    height: 1px;
+    margin: 0;
+  }
+
