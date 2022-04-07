@@ -31,3 +31,28 @@ hr {
     margin: 0;
   }
 
+  .py-2px{
+        padding: 2px 0;
+  }
+
+  .card{
+      background-color: inherit;
+  }
+
+  .past-time{
+      background-color: rgb(218, 16, 16);
+      color:rgb(54, 160, 50);
+  }
+
+  .present-time{
+      background-color: rgb(218, 17, 218);
+  }
+
+  .future-time{
+      background-color: rgb(0, 0, 0);
+  }
+
+  button{
+      background-color: transparent;
+      border: 0;
+  }
