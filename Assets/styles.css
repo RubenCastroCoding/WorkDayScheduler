@@ -1,0 +1,14 @@
+::placeholder{
+    color: white;
+    opacity: 1;
+}
+main{
+    width: 75%;
+    margin:0 auto;
+}
+
+.hr{
+    height: 10px;
+    background-color: black;
+}
+
